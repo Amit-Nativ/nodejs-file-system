@@ -1,0 +1,7 @@
+File System & JSON:
+
+1. Print the current working directory
+2. Create 2 text files, read them, print them to the console
+3. Create 2 directories, 2 files with @ at the beginning of their names, 2 json files. Print the names of the JSON files ONLY (while reading the entire directory)
+4. Manipulate the JSON files - add a “dependencies” key to the JSON with some key and values and save it.
+5. Asynchronous - read about it, learn it, do it.
